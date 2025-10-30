@@ -10,4 +10,4 @@
 * Даны рекомендации для увеличения повторных заказов, привлечения оптовых клиентов и сезонных продаж
 * Проект демонстрирует навыки анализа данных, визуализации, машинного обучения и статистического тестирования гипотез
 
-**Ссылка на файл Jypiter notebook:** [Выявление профилей потребления](https://github.com/Natasha-ign/Projects/blob/main/e-com_customer%20clusters/e-com_%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.ipynb)
+**Ссылка на файл Jupyter Notebook:** [Выявление профилей потребления](https://github.com/Natasha-ign/Projects/blob/main/e-com_customer%20clusters/e-com_%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.ipynb)
