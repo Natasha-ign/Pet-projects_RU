@@ -8,4 +8,6 @@
 
 Результаты: файл.py, скриншоты отчета в телеграм.
 
-![Описание картинки](report_bot/report_bot_telegram_msg.png)
+<img width="612" height="646" alt="report_bot_telegram_msg" src="https://github.com/user-attachments/assets/25dbe253-b84b-4a7b-a5ba-d78c4fad3d02" />
+
+![report_bot_telegram_graphs](https://github.com/user-attachments/assets/c8ae4788-7a69-4044-85be-55b863dd7a39)
