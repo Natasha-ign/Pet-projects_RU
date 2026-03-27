@@ -7,3 +7,5 @@
 Использованы инструменты: SQL, Airflow, DAG,  telegram bot, seaborn, matplotlib
 
 Результаты: файл.py, скриншоты отчета в телеграм.
+
+![Описание картинки](report_bot/report_bot_telegram_msg.png)
